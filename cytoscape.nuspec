@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cytoscape</id>
+    <version>3.9.1</version>
+    <title>cytoscape</title>
+    <authors>Cytoscape Consortium</authors>
+	<owners>awatcha</owners>
+	<licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
+    <projectUrl>http://www.cytoscape.org/index.html</projectUrl>
+    <iconUrl>https://cytoscape.org/images/logo/cy3logoOrange.svg</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data. A lot of Apps are available for various kinds of problem domains, including bioinformatics, social network analysis, and semantic web.</description>
+    <summary>Network Data Integration, Analysis, and Visualization in a Box</summary>
+    <releaseNotes>http://www.cytoscape.org/releasenotes.html</releaseNotes>
+    <tags>cytoscape graph visualization analysis</tags>
+    <packageSourceUrl>https://github.com/awatchanaman/cytoscape-3.9.1</packageSourceUrl>
+    <docsUrl>http://www.cytoscape.org/documentation_users.html</docsUrl>
+    <bugTrackerUrl>https://cytoscape.org/bug-report.html</bugTrackerUrl>
+	<dependencies>
+      <dependency id="zulu11" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
