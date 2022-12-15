@@ -6,8 +6,8 @@
     <version>3.9.1</version>
     <title>cytoscape</title>
     <authors>Cytoscape Consortium</authors>
-	<owners>awatcha</owners>
-	<licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
+    <owners>awatcha</owners>
+    <licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
     <projectUrl>http://www.cytoscape.org/index.html</projectUrl>
     <iconUrl>https://cytoscape.org/images/logo/cy3logoOrange.svg</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -18,7 +18,7 @@
     <packageSourceUrl>https://github.com/awatchanaman/cytoscape-3.9.1</packageSourceUrl>
     <docsUrl>http://www.cytoscape.org/documentation_users.html</docsUrl>
     <bugTrackerUrl>https://cytoscape.org/bug-report.html</bugTrackerUrl>
-	<dependencies>
+    <dependencies>
       <dependency id="zulu11" />
     </dependencies>
   </metadata>
