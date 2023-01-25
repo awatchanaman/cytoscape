@@ -9,7 +9,7 @@
     <owners>awatcha</owners>
     <licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
     <projectUrl>http://www.cytoscape.org/index.html</projectUrl>
-    <iconUrl>https://cytoscape.org/images/logo/cy3logoOrange.svg</iconUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cytoscape_logo.svg/langfr-1024px-Cytoscape_logo.svg.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data. A lot of Apps are available for various kinds of problem domains, including bioinformatics, social network analysis, and semantic web.</description>
     <summary>Network Data Integration, Analysis, and Visualization in a Box</summary>
