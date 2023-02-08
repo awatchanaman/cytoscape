@@ -1,6 +1,8 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 
+$zulu11 = "c:\program files\zulu\zulu-11"
+
 $packageArgs = @{
   packageName    = 'cytoscape'
   softwareName   = 'Cytoscape*'
@@ -19,5 +21,7 @@ $packageArgs = @{
   checksumType   = 'sha256'
   checksumType64 = 'sha256'
 }
+
+setx /m JAVA_HOME "$zulu11"
 
 Install-ChocolateyPackage @packageArgs
