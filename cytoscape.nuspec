@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>cytoscape</id>
-    <version>3.9.1</version>
+    <version>3.9.1.20230227</version>
     <title>cytoscape</title>
     <authors>Cytoscape Consortium</authors>
     <owners>awatcha</owners>
